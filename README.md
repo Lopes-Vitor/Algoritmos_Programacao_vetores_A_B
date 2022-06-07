@@ -11,5 +11,5 @@
       - C = C + A[valor]*B[valor];
       - X++
     - Fim enquanto 
-    - Mostrar na tela o valor de C
+   - Mostrar na tela o valor de C
 - FIM 
