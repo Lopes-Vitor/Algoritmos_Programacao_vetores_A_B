@@ -13,3 +13,4 @@
    - Fim enquanto 
    - Mostrar na tela o valor de C
 - FIM 
+!(isso e uma imagem)[
