@@ -1,6 +1,6 @@
 # Vetores_A_B
 
--inicio 
+- Inicio 
   - x = 0
   - Enquanto x<=5 Faca
     - x++
