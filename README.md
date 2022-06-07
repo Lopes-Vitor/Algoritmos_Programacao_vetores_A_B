@@ -10,6 +10,6 @@
    - Enquanto X = 1; X<=5 Faca 
       - C = C + A[valor]*B[valor];
       - X++
-    - Fim enquanto 
+   - Fim enquanto 
    - Mostrar na tela o valor de C
 - FIM 
