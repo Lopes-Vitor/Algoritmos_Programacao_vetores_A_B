@@ -13,4 +13,4 @@
    - Fim enquanto 
    - Mostrar na tela o valor de C
 - FIM 
-!(isso e uma imagem)[
+!(isso e uma imagem)[https://github.com/Lopes-Vitor/vetores_A_B/blob/main/fluxovetor.png]
